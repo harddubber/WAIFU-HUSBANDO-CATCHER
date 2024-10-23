@@ -35,7 +35,7 @@ use Rarity Number accordingly rarity Map
 
 | Number | Rarity     |
 | ------ | -----------|
-| 1 | ⚪️ Common   |
+| 1 | ⚪️ useless   |
 | 2 | 🟣 Rare     |
 | 3 | 🟡 Legendary|
 | 4 | 🟢 Medium   |
