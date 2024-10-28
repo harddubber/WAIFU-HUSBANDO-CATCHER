@@ -3,7 +3,7 @@ class Config(object):
 
     # Get this value from my.telegram.org/apps
     OWNER_ID = "6087651372"
-    sudo_users = "6845325416", "6765826972"
+    sudo_users = "6845325416", "6087651372"
     GROUP_ID = -1002316438413
     TOKEN = "7785998273:AAHER3KsHxhsZG2JFlA9uUOfeY0qwFW8i1c"
     mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
